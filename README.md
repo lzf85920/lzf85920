@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 
+My name is TSU-FU, Li.
+
+I specialize in
+* Market Analysis
+* Natural Language Processing(NLP)
+* Computer Vision(CV)
+
+In my previous work experience, I worked at **Fubon Financial Holding Company** and **Leopard Mobile**. In the former, I'm in charge of **NPL-related projects**, the work indicates News classification and Regtech. The latter, Leopard Mobile, partner of China Cheetah Mobile. I conducted several **data science** projects, which mainly includes market model construction, web crawler, data ETL.
+
 
 <!--
 **lzf85920/lzf85920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
