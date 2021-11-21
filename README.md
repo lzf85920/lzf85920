@@ -2,7 +2,7 @@
 My name is TSU-FU, Li.
 
 I specialize in
-* Market Analysis
+
 * Natural Language Processing(NLP)
 * Computer Vision(CV)
 
