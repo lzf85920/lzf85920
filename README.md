@@ -1,12 +1,6 @@
 ### Hi 👋 
-My name is TSU-FU, Li.
-
-I specialize in
-
-* Natural Language Processing(NLP)
-* Computer Vision(CV)
-
-In my previous work experience, I worked at **Fubon Financial Holding Company** and **Leopard Mobile**. In the former, I'm in charge of **NPL-related projects**, the work indicates News classification and Regtech. The latter, Leopard Mobile, partner of China Cheetah Mobile. I conducted several **data science** projects, which mainly includes market model construction, web crawler, data ETL.
+Tsu-Fu LI is pursuing his master’s degree in Economics at the National Taiwan University and will complete his study in July 2022. He is interested in deep learning and statistics, and he ranked in the top 1% on the Deep Learning and Statistics- related courses.
+Tsu-Fu LI had developed the two NLP models during his internship at Fubon Financial Holding Company. Now, he is developing models for document and identification recognition at Cathay Life Insurance Company. In addition to his professional abilities, he is also good at leading and communicating in teamwork.
 
 
 <!--
